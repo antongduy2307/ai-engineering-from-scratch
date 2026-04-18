@@ -14,5 +14,4 @@ pillow>=10.0
 librosa>=0.10
 soundfile>=0.12
 tiktoken>=0.5
-anthropic>=0.25
 openai>=1.0
